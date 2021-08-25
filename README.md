@@ -1,2 +1,2 @@
-# LAFGNet
-Level-down Aggregation Feature Guiding Network for Small and Large Aspect Ratio Logo Detection
+# DSFP-GA
+Discriminative Semantic Feature Pyramid Network with Guided Anchoring for Logo Detection
