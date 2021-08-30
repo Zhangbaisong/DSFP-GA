@@ -13,4 +13,8 @@ To use this repo, please follow [README.md](https://github.com/open-mmlab/mmdete
 ```Python
 python tools/train.py ./configs/dsfp_ga/faster_rcnn_r50_fpn_1x_logo3k.py --work-dir work_dirs/faster_rcnn_r50_fpn_1x_logo3k
 ```
+* To train DSFP-GA
+```Python
+python tools/train.py ./configs/dsfp_ga/dsfp_ga_1x_logo3k.py --work-dir work_dirs/dsfp_ga_1x_logo3k
+```
 
