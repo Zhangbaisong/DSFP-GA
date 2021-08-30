@@ -9,8 +9,8 @@ To use this repo, please follow [README.md](https://github.com/open-mmlab/mmdete
 
 ## Train/Test
 ### Train
-
+*To train baseline (i.e., Faster R-CNN)
 ```Python
-python tools/train.py ./configs/faster_rcnn/faster_rcnn_r50_fpn_1x_logo3k.py --work-dir work_dirs/faster_rcnn_r50_fpn_1x_logo3k
+python tools/train.py ./configs/dsfp_ga/faster_rcnn_r50_fpn_1x_logo3k.py --work-dir work_dirs/faster_rcnn_r50_fpn_1x_logo3k
 ```
 
