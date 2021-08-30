@@ -11,6 +11,6 @@ To use this repo, please follow README.md of MMDetection.
 ### Train
 
 ```Python
-./tools/dist_train_faster_r50_400_050x.sh
+python tools/train.py ./configs/faster_rcnn/faster_rcnn_r50_fpn_1x_logo3k.py --work-dir work_dirs/faster_rcnn_r50_fpn_1x_logo3k
 ```
 
