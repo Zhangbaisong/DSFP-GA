@@ -20,7 +20,11 @@ python tools/train.py ./configs/dsfp_ga/dsfp_ga_1x_logo3k.py --work-dir work_dir
 
 ### Test
 * To test baseline (i.e., Faster R-CNN)
-* ```Python
+```Python
 python tools/test.py ./configs/dsfp_ga/faster_rcnn_r50_fpn_1x_logo3k.py work_dirs/faster_rcnn_r50_fpn_1x_logo3k/faster_rcnn_r50_fpn_1x_logo3k.pth --eval mAP
+```
+* To test DSFP-GA
+```Python
+python tools/test.py ./configs/dsfp_ga/dsfp_ga_1x_logo3k.py work_dirs/dsfp_ga_1x_logo3k/dsfp_ga_1x_logo3k.pth --eval mAP
 ```
 
