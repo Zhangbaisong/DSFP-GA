@@ -35,3 +35,6 @@ Below is benchmark results. (extraction code of model : dsfp)
 | Faster R-CNN| ResNet-50-FPN |83.8 |  [model](https://pan.baidu.com/s/1Xw5PlWLcN5dzRqnrceJqug ) |
 | DSFP-GA | ResNet-50-DSFP | 87.7|  [model](https://pan.baidu.com/s/1Xw5PlWLcN5dzRqnrceJqug ) |
 
+## TODO
+* Code reorganization is needed to be consistent with the style of MMDetection framework
+
