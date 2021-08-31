@@ -27,9 +27,11 @@ python tools/test.py ./configs/dsfp_ga/faster_rcnn_r50_fpn_1x_logo3k.py work_dir
 ```Python
 python tools/test.py ./configs/dsfp_ga/dsfp_ga_1x_logo3k.py work_dirs/dsfp_ga_1x_logo3k/dsfp_ga_1x_logo3k.pth --eval mAP
 ```
+
+## Benchmark
+Below is benchmark results. (extraction code of model:dsfp)
 | methods | backbone | mAP | download|
 | ------ | ------ | ------ | ------ |
 | Faster R-CNN| ResNet-50-FPN |83.8 | [model](https://pan.baidu.com/s/1Xw5PlWLcN5dzRqnrceJqug ) |
-| ------ | ------ | ------ | ------ |
 | DSFP-GA | ResNet-50-DSFP | 87.7| [model](https://pan.baidu.com/s/1Xw5PlWLcN5dzRqnrceJqug ) |
 
