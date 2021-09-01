@@ -5,7 +5,7 @@ Discriminative Semantic Feature Pyramid Network with Guided Anchoring for Logo D
 This repository reproduces "Zhang et al. Discriminative Semantic Feature Pyramid Network with Guided Anchoring for Logo Detection.2021." (DSFP-GA) . The implementation is based on MMDetection framework. All the codes for the DSFP-GA model follow the original paper.
 
 ## Code
-To use this framework, please Please download it at this link: http://123.57.42.89/Dataset_ict/DSFP-GA.zip
+To use this framework, please download it at this link: http://123.57.42.89/Dataset_ict/DSFP-GA.zip
 ## Get Started
 To use this repo, please follow [README.md](https://github.com/open-mmlab/mmdetection/blob/master/README.md) of MMDetection.
 
